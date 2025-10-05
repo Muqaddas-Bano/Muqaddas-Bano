@@ -38,16 +38,6 @@ I hold a Bachelor's degree in Botany from the **University of Gujrat, Pakistan**
 - 📊 **Statistical & Omics Integration**  
   Combining transcriptomics, metabolomics, and environmental datasets for systems-level insights.
 
----
-
-## 📫 Contact Me
-
-- 📧 Email: muqaddasbano786@gmail.com 
-- 🧑‍🎓 LinkedIn: [linkedin.com/in/muqaddas-bano](https://www.linkedin.com/in/muqaddas-bano)  
-- 🐦 X: [@muqaddasbano1](https://x.com/muqaddasbano1)  
-- 🔗 Bsky: [muqaddas-bano.bsky.social](https://muqaddas-bano.bsky.social)
-
----
 
 ## 🏅 Achievements
 
