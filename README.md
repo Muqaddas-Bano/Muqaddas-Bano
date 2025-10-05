@@ -14,8 +14,3 @@ I hold a Bachelor's degree in Botany from the **University of Gujrat, Pakistan**
 - **Data Science & Bioinformatics**: Multi-omics data analysis, machine learning (GPT-2/4), remote sensing, statistical modeling  
 - **Tools & Software**: SPSS, Minitab, MATLAB, COBRApy  
 - **Other Skills**: Bash/Shell (Linux), Herbarium Techniques, Plant Identification
-## 📊 GitHub Stats & Top Languages
-
-![Muqaddas Bano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muqaddas-Bano&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muqaddas-Bano&layout=compact)
-### ✨ Let's collaborate on research, data analysis, and open science projects!
